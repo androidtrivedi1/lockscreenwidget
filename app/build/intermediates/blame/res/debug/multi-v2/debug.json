@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,1,8,2,3,5,6,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "427,17,530,72,142,265,339,194",
+                        "endColumns": "102,53,49,68,50,73,87,70",
+                        "endOffsets": "525,66,575,136,188,334,422,260"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,212,262,331,382,456,544",
+                        "endColumns": "102,53,49,68,50,73,87,70",
+                        "endOffsets": "153,207,257,326,377,451,539,610"
+                    }
+                },
+                {
+                    "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "193,524",
+                        "endLines": "13,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,681"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "615,906",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "901,1061"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

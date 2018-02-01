@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_admin_sample.xml.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_info.xml.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myshape.xml.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\drawable\\myshape.xml"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\layout_wd2activity.xml.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\layout\\wd2activity.xml"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Workspace\\lockscreenwidget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android Workspace\\lockscreenwidget\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
